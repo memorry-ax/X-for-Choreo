@@ -7,12 +7,12 @@ ARG WSPATH=choreo \
     NEZHA_PORT= \
     NEZHA_KEY= \
     NEZHA_TLS= \
-    WEB_DOMAIN= \
+    WEB_DOMAIN=cho.999.hz.cz \
     ARGO_DOMAIN=cho-ws.999.hz.cz \
     SSH_DOMAIN=cho-ssh.999.hz.cz \
     ARGO_AUTH={"AccountTag":"4d65cdac21f9ce54b48284550bcae612","TunnelSecret":"pwdv8cwYnIgeKvrWgIta9QS0PSnLAdpRrW6t8m9JR3E=","TunnelID":"3c2572fc-d7bc-499b-916d-b7d9515a87bd"}  \
-    WEB_USERNAME= \
-    WEB_PASSWORD=
+    WEB_USERNAME=admin \
+    WEB_PASSWORD=xg201569
 
 # 此处不用改，保留即可
 ENV NEZHA_SERVER=$NEZHA_SERVER \
