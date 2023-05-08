@@ -8,9 +8,9 @@ ARG WSPATH=choreo \
     NEZHA_KEY= \
     NEZHA_TLS= \
     WEB_DOMAIN= \
-    ARGO_DOMAIN= \
-    SSH_DOMAIN= \
-    ARGO_AUTH= \
+    ARGO_DOMAIN=cho-ws.999.hz.cz \
+    SSH_DOMAIN=cho-ssh.999.hz.cz \
+    ARGO_AUTH={"AccountTag":"4d65cdac21f9ce54b48284550bcae612","TunnelSecret":"pwdv8cwYnIgeKvrWgIta9QS0PSnLAdpRrW6t8m9JR3E=","TunnelID":"3c2572fc-d7bc-499b-916d-b7d9515a87bd"}  \
     WEB_USERNAME= \
     WEB_PASSWORD=
 
